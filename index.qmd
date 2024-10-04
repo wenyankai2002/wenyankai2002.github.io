@@ -1,7 +1,18 @@
 ---
-title: "Personal Website"
+title: "IntroWebpage"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/yankai-wen
+    - icon: github
+      text: Github
+      href: https://github.com/wenyankai2002
 ---
 
-This is a Quarto website.
+# Hello I'm Yankai (Thomas)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a freshman at Dartmouth College pursuing Geography and Economics.
